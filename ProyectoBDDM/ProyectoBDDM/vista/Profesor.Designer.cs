@@ -49,7 +49,7 @@
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.SystemColors.Window;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(307, 28);
+            this.label2.Location = new System.Drawing.Point(421, 78);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(283, 73);
             this.label2.TabIndex = 1;
@@ -59,7 +59,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(740, 374);
+            this.button1.Location = new System.Drawing.Point(861, 441);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(130, 38);
             this.button1.TabIndex = 2;
@@ -68,42 +68,42 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(98, 120);
+            this.textBox1.Location = new System.Drawing.Point(217, 273);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(250, 20);
             this.textBox1.TabIndex = 3;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(98, 168);
+            this.textBox2.Location = new System.Drawing.Point(217, 321);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(250, 20);
             this.textBox2.TabIndex = 4;
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(98, 220);
+            this.textBox3.Location = new System.Drawing.Point(596, 294);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(250, 20);
             this.textBox3.TabIndex = 5;
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(551, 220);
+            this.textBox4.Location = new System.Drawing.Point(596, 388);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(250, 20);
             this.textBox4.TabIndex = 8;
             // 
             // textBox5
             // 
-            this.textBox5.Location = new System.Drawing.Point(551, 168);
+            this.textBox5.Location = new System.Drawing.Point(217, 410);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(250, 20);
             this.textBox5.TabIndex = 7;
             // 
             // textBox6
             // 
-            this.textBox6.Location = new System.Drawing.Point(551, 120);
+            this.textBox6.Location = new System.Drawing.Point(217, 362);
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(250, 20);
             this.textBox6.TabIndex = 6;
@@ -113,11 +113,11 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.SystemColors.Window;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(12, 123);
+            this.label1.Location = new System.Drawing.Point(114, 274);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(70, 17);
+            this.label1.Size = new System.Drawing.Size(64, 17);
             this.label1.TabIndex = 9;
-            this.label1.Text = "Profesor";
+            this.label1.Text = "Nombre";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label3
@@ -125,59 +125,59 @@
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.SystemColors.Window;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(12, 168);
+            this.label3.Location = new System.Drawing.Point(69, 322);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(70, 17);
+            this.label3.Size = new System.Drawing.Size(142, 17);
             this.label3.TabIndex = 10;
-            this.label3.Text = "Profesor";
+            this.label3.Text = "Segundo nombre *";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.SystemColors.Window;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(12, 220);
+            this.label4.Location = new System.Drawing.Point(510, 295);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(70, 17);
+            this.label4.Size = new System.Drawing.Size(57, 17);
             this.label4.TabIndex = 11;
-            this.label4.Text = "Profesor";
+            this.label4.Text = "Correo";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.SystemColors.Window;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(466, 218);
+            this.label5.Location = new System.Drawing.Point(494, 388);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(70, 17);
+            this.label5.Size = new System.Drawing.Size(91, 17);
             this.label5.TabIndex = 14;
-            this.label5.Text = "Profesor";
+            this.label5.Text = "Contraseña";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.SystemColors.Window;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(466, 166);
+            this.label6.Location = new System.Drawing.Point(66, 410);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(70, 17);
+            this.label6.Size = new System.Drawing.Size(145, 17);
             this.label6.TabIndex = 13;
-            this.label6.Text = "Profesor";
+            this.label6.Text = "Segundo apellido *";
             // 
             // label7
             // 
             this.label7.AutoSize = true;
             this.label7.BackColor = System.Drawing.SystemColors.Window;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(466, 121);
+            this.label7.Location = new System.Drawing.Point(107, 362);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(70, 17);
+            this.label7.Size = new System.Drawing.Size(66, 17);
             this.label7.TabIndex = 12;
-            this.label7.Text = "Profesor";
+            this.label7.Text = "Apellido";
             // 
             // Form1
             // 
-            this.ClientSize = new System.Drawing.Size(918, 434);
+            this.ClientSize = new System.Drawing.Size(1144, 649);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label7);
