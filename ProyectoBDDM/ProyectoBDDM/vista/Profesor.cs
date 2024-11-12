@@ -10,19 +10,19 @@ using System.Windows.Forms;
 
 namespace ProyectoBDDM.vista
 {
-    public partial class Form1 : Form
+    public partial class Profesor : Form
     {
-        public Form1()
+        public Profesor()
         {
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void Asignatura_Load(object sender, EventArgs e)
         {
 
         }
 
-        private void label2_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
 
         }

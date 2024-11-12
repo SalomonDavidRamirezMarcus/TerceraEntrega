@@ -10,11 +10,26 @@ using System.Windows.Forms;
 
 namespace ProyectoBDDM.vista
 {
-    public partial class Form1 : Form
+    public partial class entrega_actividades : Form
     {
-        public Form1()
+        public entrega_actividades()
         {
             InitializeComponent();
+        }
+
+        private void Asignatura_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
